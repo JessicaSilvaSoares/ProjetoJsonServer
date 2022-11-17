@@ -1,0 +1,71 @@
+{
+    "combo":[
+        {
+            "id": 1,
+            "nome": "Combo 1",
+            "hambúrgueres": 1,
+            "refrigerantes": 1,
+            "acompanhamentos": 1
+        },
+        {
+            "id": 2,
+            "nome": "Combo 2",
+            "hambúrgueres": 2,
+            "refrigerante": 2,
+            "acompanhamento": 2
+        },
+        {
+            "id": 3,
+            "nome": "Combo 3",
+            "hambúrgueres": 4,
+            "refrigerantes": 4,
+            "acompanhamentos": 3,
+            "sobremesas": 1
+        },
+        {
+            "id": 4,
+            "nome": "Combo 4",
+            "hambúrgueres": 5,
+            "refrigerantes": 5,
+            "acompanhamentos": 5,
+            "sobremesas": 5
+        }
+    ],
+    "acompanhamento_açai":[
+        {
+            "id": 1,
+            "nome":"granola"
+        },
+        {
+            "id": 2,
+            "nome":"amendoim"
+        },
+        {
+            "id": 3,
+            "nome":"leite ninho"
+        },
+        {
+            "id": 4,
+            "nome":"paçoca"
+        }
+    ],
+    "caldas_açai":[
+        {
+            "id": 1,
+            "nome":"chocolate"
+        },
+        {
+            "id": 2,
+            "nome":"morango"
+        },
+        {
+            "id": 3,
+            "nome":"leite condençado"
+        },
+        {
+            "id": 4,
+            "nome":"amora"
+        }
+
+    ]
+}
