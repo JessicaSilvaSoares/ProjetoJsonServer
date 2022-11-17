@@ -31,7 +31,7 @@
             "sobremesas": 5
         }
     ],
-    "acompanhamento_açai":[
+    "acompanhamento_acai":[
         {
             "id": 1,
             "nome":"granola"
@@ -49,7 +49,7 @@
             "nome":"paçoca"
         }
     ],
-    "caldas_açai":[
+    "caldas_acai":[
         {
             "id": 1,
             "nome":"chocolate"
